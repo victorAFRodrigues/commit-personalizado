@@ -52,7 +52,7 @@ EXIT="🚪"
 show_header() {
   clear
   echo -e "${LIGHT_BLUE}╔══════════════════════════════════════════════════════════════════════════════${NC}"
-  echo -e "${LIGHT_BLUE}║${NC} ${STAR} ${WHITE}COMMIT DO EDU${NC} ${STAR} ${NC}"
+  echo -e "${LIGHT_BLUE}║${NC} ${STAR} ${WHITE}COMMIT DO VITÃO${NC} ${STAR} ${NC}"
   echo -e "${LIGHT_BLUE}║${NC} ${LIGHT_CYAN}Formato padronizado${NC} - ${WHITE}@edusites${NC}"
   echo -e "${LIGHT_BLUE}╚══════════════════════════════════════════════════════════════════════════════${NC}"
   echo
